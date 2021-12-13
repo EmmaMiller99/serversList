@@ -8,7 +8,6 @@
     "port": "54371",
     "location": "🇬🇧 United Kingdom",
     "name": "Manchester",
-    "tunnel_over": "UDP",
     "trust": "Yes"
   },
  {
@@ -19,8 +18,6 @@
     "port": "54371",
     "location": "🇭🇰 Hong Kong",
     "name": "Hong Kong",
-    "tunnel_over": "UDP",
-    "trust": "Yes"
   },
  {
     "id": 3,
@@ -30,8 +27,6 @@
     "port": "54371",
     "location": "🇺🇸 United States",
     "name": "Chicago",
-    "tunnel_over": "UDP",
-    "trust": "No"
   },
   {
     "id": 4,
@@ -41,8 +36,6 @@
     "port": "54371",
     "location": "🇺🇸 United States",
     "name": "Florida",
-    "tunnel_over": "UDP",
-    "trust": "No"
   },
   {
     "id": 5,
@@ -52,8 +45,6 @@
     "port": "54371",
     "location": "🇳🇱 Netherlands",
     "name": "Amsterdam",
-    "tunnel_over": "UDP",
-    "trust": "No"
   }
 ]
 }
