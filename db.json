@@ -6,12 +6,9 @@
     "password": "pass@123",
     "ip": "185.94.191.50",
     "port": "54371",
-    "id_server": "1400",
     "location": "🇬🇧 United Kingdom",
     "name": "Manchester",
     "tunnel_over": "UDP",
-    "algorithm": "AES 128",
-    "hMacAlg": "md5",
     "trust": "Yes"
   },
  {
@@ -20,12 +17,9 @@
     "password": "pass@123",
     "ip": "91.245.255.119",
     "port": "54371",
-    "id_server": "1400",
     "location": "🇭🇰 Hong Kong",
     "name": "Hong Kong",
     "tunnel_over": "UDP",
-    "algorithm": "AES 128",
-    "hMacAlg": "md5",
     "trust": "Yes"
   },
  {
@@ -34,12 +28,9 @@
     "password": "pass@123",
     "ip": "23.227.196.198",
     "port": "54371",
-    "id_server": "1400",
     "location": "🇺🇸 United States",
-    "name": "Chicago_2",
+    "name": "Chicago",
     "tunnel_over": "UDP",
-    "algorithm": "AES 128",
-    "hMacAlg": "md5",
     "trust": "No"
   },
   {
@@ -48,12 +39,9 @@
     "password": "pass@123",
     "ip": "23.227.202.93",
     "port": "54371",
-    "id_server": "1400",
     "location": "🇺🇸 United States",
     "name": "Florida",
     "tunnel_over": "UDP",
-    "algorithm": "AES 128",
-    "hMacAlg": "md5",
     "trust": "No"
   },
   {
@@ -62,12 +50,9 @@
     "password": "pass@123",
     "ip": "185.156.172.24",
     "port": "54371",
-    "id_server": "1400",
     "location": "🇳🇱 Netherlands",
     "name": "Amsterdam",
     "tunnel_over": "UDP",
-    "algorithm": "AES 128",
-    "hMacAlg": "md5",
     "trust": "No"
   }
 ]
