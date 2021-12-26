@@ -14,10 +14,10 @@
     "id": 2,
     "username": "g1",
     "password": "pass@123",
-    "ip": "91.245.255.119",
+    "ip": "194.5.212.222",
     "port": "54371",
-    "location": "🇭🇰 Hong Kong",
-    "name": "Hong Kong"
+    "location": "🇩🇪 Germany",
+    "name": "Frankfurt"
   },
  {
     "id": 3,
@@ -39,6 +39,15 @@
   },
   {
     "id": 5,
+    "username": "g1",
+    "password": "pass@123",
+    "ip": "67.43.234.126",
+    "port": "54371",
+    "location": "🇨🇦 Canada",
+    "name": "Montreal"
+  },
+  {
+    "id": 6,
     "username": "g1",
     "password": "pass@123",
     "ip": "185.156.172.24",
