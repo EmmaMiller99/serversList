@@ -50,6 +50,17 @@
     "id": 6,
     "username": "g1",
     "password": "pass@123",
+    "ip": "91.245.255.119",
+    "port": "54371",
+    "location": "🇭🇰 Hong Kong",
+    "name": "Hong Kong",
+    "tunnel_over": "UDP",
+    "trust": "Yes"
+  },
+  {
+    "id": 7,
+    "username": "g1",
+    "password": "pass@123",
     "ip": "185.156.172.24",
     "port": "54371",
     "location": "🇳🇱 Netherlands",
