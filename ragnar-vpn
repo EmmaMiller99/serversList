@@ -1,0 +1,22 @@
+{
+   "ads":{
+       "app_id":"ca-app-pub-3940256099942544~3347511713",
+       "open_id":"ca-app-pub-3940256099942544/3419835294",
+       "interstitial_id":"ca-app-pub-3940256099942544/1033173712",
+       "native_id":"ca-app-pub-3940256099942544/2247696110"
+    },
+   "free_servers":[
+      {
+         "id":1,
+         "ip":"185.208.172.39",
+         "location":"ðŸ‡©ðŸ‡ª Germany",
+         "name":"Nuremberg",
+         "password":"pass@123",
+         "ping":-1,
+         "port":"55555",
+         "username":"g1"
+      }
+   ],
+   "premium_servers":[
+   ]
+}
