@@ -4,65 +4,35 @@
     "id": 1,
     "username": "g1",
     "password": "pass@123",
-    "ip": "185.94.191.50",
-    "port": "54371",
-    "location": "🇬🇧 United Kingdom",
-    "name": "Manchester",
-    "trust": "Yes"
+    "ip": "31.192.235.12",
+    "port": "55555",
+    "location": "🇳🇱 Netherlands",
+    "name": "Amsterdam"
   },
- {
+  {
     "id": 2,
     "username": "g1",
     "password": "pass@123",
-    "ip": "194.5.212.222",
-    "port": "54371",
-    "location": "🇩🇪 Germany",
-    "name": "Frankfurt"
+    "ip": "185.118.166.249",
+    "port": "55555",
+    "location": "🇷🇺 Russia",
+    "name": "Chelyabinsk"
   },
- {
+  {
     "id": 3,
     "username": "g1",
     "password": "pass@123",
-    "ip": "23.227.196.198",
-    "port": "54371",
-    "location": "🇺🇸 United States",
-    "name": "Chicago"
-  },
-  {
-    "id": 4,
-    "username": "g1",
-    "password": "pass@123",
-    "ip": "23.227.202.93",
-    "port": "54371",
-    "location": "🇺🇸 United States",
-    "name": "Florida"
-  },
-  {
-    "id": 5,
-    "username": "g1",
-    "password": "pass@123",
-    "ip": "67.43.234.126",
-    "port": "54371",
-    "location": "🇨🇦 Canada",
-    "name": "Montreal"
-  },
-  {
-    "id": 6,
-    "username": "g1",
-    "password": "pass@123",
-    "ip": "91.245.255.119",
-    "port": "54371",
-    "location": "🇭🇰 Hong Kong",
-    "name": "Hong Kong",
-    "tunnel_over": "UDP",
-    "trust": "Yes"
+    "ip": "31.192.237.160",
+    "port": "55555",
+    "location": "🇩🇪 Germany",
+    "name": "Frankfurt"
   },
   {
     "id": 7,
     "username": "g1",
     "password": "pass@123",
     "ip": "185.156.172.24",
-    "port": "54371",
+    "port": "55555",
     "location": "🇳🇱 Netherlands",
     "name": "Amsterdam"
   }
