@@ -19,6 +19,16 @@
     "name": "Chelyabinsk"
   },
   {
+     "id":4,
+     "ip":"31.192.232.6",
+     "location":"🇺🇸 United States",
+     "name":"Los Angeles",
+     "password":"pass@123",
+     "ping":-1,
+     "port":"55555",
+     "username":"g1"
+  },
+  {
     "id": 7,
     "username": "g1",
     "password": "pass@123",
