@@ -19,15 +19,6 @@
     "name": "Chelyabinsk"
   },
   {
-    "id": 3,
-    "username": "g1",
-    "password": "pass@123",
-    "ip": "31.192.237.160",
-    "port": "55555",
-    "location": "🇩🇪 Germany",
-    "name": "Frankfurt"
-  },
-  {
     "id": 7,
     "username": "g1",
     "password": "pass@123",
